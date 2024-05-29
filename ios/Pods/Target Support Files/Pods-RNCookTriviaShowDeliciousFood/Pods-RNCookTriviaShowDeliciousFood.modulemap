@@ -1,0 +1,6 @@
+framework module Pods_RNCookTriviaShowDeliciousFood {
+  umbrella header "Pods-RNCookTriviaShowDeliciousFood-umbrella.h"
+
+  export *
+  module * { export * }
+}
